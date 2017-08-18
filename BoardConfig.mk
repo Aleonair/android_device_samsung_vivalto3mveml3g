@@ -7,7 +7,7 @@ USE_CAMERA_STUB := true
 
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := vivalto3mveml3g,G318H,SM-G318H
+TARGET_OTA_ASSERT_DEVICE := vivalto3mveml3g,G318HZ,SM-G318HZ
 
 # inherit from the proprietary version
 -include vendor/samsung/vivalto3mveml3g/BoardConfigVendor.mk
