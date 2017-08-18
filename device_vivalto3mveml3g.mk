@@ -24,5 +24,5 @@ $(call inherit-product, build/target/product/full.mk)
 PRODUCT_NAME := aicp_vivalto3mveml3g
 PRODUCT_DEVICE := vivalto3mveml3g
 PRODUCT_BRAND := samsung
-PRODUCT_MODEL := G318H
+PRODUCT_MODEL := G318HZ
 PRODUCT_MANUFACTURER := samsung
